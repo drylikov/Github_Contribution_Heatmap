@@ -15,6 +15,7 @@ Unlike the original greenish graph, the heatmap is absolute and does not depend 
 
 ![heatmap gif](http://www.drylikov.com/assets/heatmap.gif)
 
+
 Installation
 ------------
 1. Install [GreaseMonkey](https://addons.mozilla.org/fr/firefox/addon/greasemonkey/) (Firefox) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=fr) (Chrome)
