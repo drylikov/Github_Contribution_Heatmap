@@ -2,6 +2,7 @@
 
 
 Github Contribution Heatmap
+
 ===========================
 
 This userscript adds a heatmap to the Github contribution graph.
