@@ -18,6 +18,7 @@
 /* jshint newcap: false */
 
 
+
 var GithubHeatmap = {
 
     COLDEST_HUE: 240,
