@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name        Github Contributions Heatmap
 // @description Adds a heatmap to the Github contribution graph.    
